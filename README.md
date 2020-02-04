@@ -22,6 +22,4 @@ b)  It can easily detect multiple face emotion by making a rectangle over every 
     <img src="1.png" width="425"/> 
     <img src="2.png" width="425"/>
 </p>
-<p>
-    <img src="3.png" width="425"/> 
-</p>
+
