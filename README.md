@@ -17,3 +17,11 @@ b)  ReLu & SoftMax activation function are use.
 a)  In this OpenCV is used for making it a real-time emotion detection system through a webcam. 
 
 b)  It can easily detect multiple face emotion by making a rectangle over every face with predicting emotion.
+
+<p float="left">
+    <img src="1.png" width="425"/> 
+    <img src="2.png" width="425"/>
+</p>
+<p>
+    <img src="3.png" width="425"/> 
+</p>
